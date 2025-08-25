@@ -2,7 +2,7 @@ import React from 'react';
 import { MessageCircle, ArrowRight } from 'lucide-react';
 
 function App() {
-  const whatsappLink = "https://wa.me/5511999999999?text=Olá,%20quero%20ativar%20minha%20revelação";
+  const whatsappLink = "https://vortexfuturo.com.br/WhatsApp";
 
   return (
     <div className="min-h-screen font-sans antialiased" style={{
