@@ -23,7 +23,7 @@ function App() {
           {/* Subheadline */}
           <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 mb-10 border border-white/10">
             <p className="text-lg md:text-xl lg:text-2xl text-white leading-relaxed font-medium">
-            Nem todo afastamento é por acaso. Relações que não fluem,<br />promessas quebradas, pessoas que somem da tua vida…<br />tudo isso aponta para uma <span className="text-yellow-400 font-bold">ruptura espiritual</span><br />que está agindo contra você e precisa ser revelada.
+            Nem todo afastamento é por acaso. Relações que não fluem, promessas quebradas, pessoas que somem da tua vida… tudo isso aponta para uma <span className="text-yellow-400 font-bold">ruptura espiritual</span> que está agindo contra você e precisa ser revelada.
             </p>
           </div>
           
