@@ -17,7 +17,7 @@ function App() {
         {/* Headline de Impacto */}
         <div className="text-center mb-16">
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-black text-white mb-8 leading-tight tracking-tight drop-shadow-2xl">
-            ⚠️ Algo no teu Destino Amoroso<br />foi interrompido…
+            ⚠️ Algo no teu Destino Amoroso foi interrompido…
           </h1>
           
           {/* Subheadline */}
