@@ -23,7 +23,7 @@ function App() {
           {/* Subheadline */}
           <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 mb-10 border border-white/10">
             <p className="text-lg md:text-xl lg:text-2xl text-white leading-relaxed font-medium">
-            Nem todo afastamento é por acaso. Relações que não fluem, promessas quebradas, pessoas que somem da tua vida…<br />tudo isso aponta para uma <span className="text-yellow-400 font-bold">ruptura espiritual</span> que está agindo contra você e precisa ser revelada.
+            Nem todo afastamento é por acaso. Relações que não fluem,<br />promessas quebradas, pessoas que somem da tua vida…<br />tudo isso aponta para uma <span className="text-yellow-400 font-bold">ruptura espiritual</span><br />que está agindo contra você e precisa ser revelada.
             </p>
           </div>
           
@@ -76,10 +76,10 @@ function App() {
         <div className="text-center mb-16">
           <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
             <p className="text-lg md:text-xl text-white mb-6 leading-relaxed font-medium">
-            🔮 Depois de milhares de análises espirituais, ficou claro que esses padrões<br />não são coincidência.
+            🔮 Depois de milhares de análises espirituais,<br />ficou claro que esses padrões não são coincidência.
             </p>
             <p className="text-lg md:text-xl text-white leading-relaxed font-medium">
-            Eles estão ligados a um <span className="text-yellow-400 font-bold">bloqueio invisível</span>, que prende tua vida amorosa<br />e só pode ser cortado quando a raiz é revelada.
+            Eles estão ligados a um <span className="text-yellow-400 font-bold">bloqueio invisível</span>,<br />que prende tua vida amorosa e só pode ser cortado<br />quando a raiz é revelada.
             </p>
           </div>
         </div>
@@ -88,10 +88,10 @@ function App() {
         <div className="text-center mb-16">
           <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
             <p className="text-lg md:text-xl text-white mb-6 leading-relaxed font-medium">
-            🌟 Mais de 70.000 pessoas já passaram por esse processo<br />e descobriram o motivo real que travava suas relações.
+            🌟 Mais de 70.000 pessoas já passaram<br />por esse processo e descobriram o motivo real<br />que travava suas relações.
             </p>
             <p className="text-lg md:text-xl text-white leading-relaxed font-medium">
-            Muitas relatam transformações rápidas assim que o bloqueio<br />foi revelado e cortado.
+            Muitas relatam transformações rápidas<br />assim que o bloqueio foi revelado e cortado.
             </p>
           </div>
         </div>
@@ -99,7 +99,7 @@ function App() {
         {/* CTA Final */}
         <div className="text-center mb-16">
           <p className="text-xl md:text-2xl text-white mb-8 leading-relaxed font-medium drop-shadow-lg">
-            ⏳ Cada dia que passa essa energia se fortalece.<br />Não deixe mais um dia com esses bloqueios ativos, impedindo tua felicidade<br />e te prendendo em ciclos de dor.
+            ⏳ Cada dia que passa essa energia se fortalece.<br />Não deixe mais um dia com esses bloqueios ativos,<br />impedindo tua felicidade e te prendendo em ciclos de dor.
           </p>
           
           <div className="flex justify-center">
