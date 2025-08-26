@@ -33,9 +33,9 @@ function App() {
               href={whatsappLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-green-600 hover:bg-green-700 text-white font-bold text-xs md:text-base px-4 md:px-8 py-4 md:py-5 rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 border-2 border-green-500 animate-pulse"
+              className="bg-green-600 hover:bg-green-700 text-white font-bold text-xs md:text-base px-4 md:px-8 py-4 md:py-5 rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 border-2 border-green-500 animate-pulse text-center leading-tight"
             >
-              👉 Receber Minha Revelação Amorosa Agora no WhatsApp
+              👉 Receber Minha Revelação Amorosa<br />Agora no WhatsApp
             </a>
           </div>
         </div>
@@ -107,9 +107,9 @@ function App() {
               href={whatsappLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-green-600 hover:bg-green-700 text-white font-bold text-xs md:text-base px-4 md:px-8 py-4 md:py-5 rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 border-2 border-green-500 animate-pulse"
+              className="bg-green-600 hover:bg-green-700 text-white font-bold text-xs md:text-base px-4 md:px-8 py-4 md:py-5 rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 border-2 border-green-500 animate-pulse text-center leading-tight"
             >
-              👉 Receber Minha Revelação Amorosa Agora no WhatsApp
+              👉 Receber Minha Revelação Amorosa<br />Agora no WhatsApp
             </a>
           </div>
         </div>
