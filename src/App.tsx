@@ -21,7 +21,7 @@ function App() {
           </h1>
           
           {/* Subheadline */}
-          <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-6 md:p-8 mb-10 border border-white/10">
+          <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 mb-10 border border-white/10">
             <p className="text-lg md:text-xl lg:text-2xl text-white leading-relaxed font-medium">
             Nem todo afastamento é por acaso. Relações que não fluem, promessas quebradas, pessoas que somem da tua vida… tudo isso aponta para uma <span className="text-yellow-400 font-bold">ruptura espiritual</span> que está agindo contra você e precisa ser revelada.
             </p>
@@ -46,7 +46,7 @@ function App() {
             Você reconhece esses padrões?
           </h2>
           
-          <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
+          <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
             <div className="space-y-6">
               <div className="text-center">
                 <p className="text-lg md:text-xl font-medium text-white leading-relaxed">
@@ -74,7 +74,7 @@ function App() {
 
         {/* Autoridade + Curiosidade */}
         <div className="text-center mb-16">
-          <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
+          <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
             <p className="text-lg md:text-xl text-white mb-6 leading-relaxed font-medium">
             🔮 Depois de milhares de análises espirituais, ficou claro que esses padrões não são coincidência.
             </p>
@@ -86,7 +86,7 @@ function App() {
 
         {/* Prova Social */}
         <div className="text-center mb-16">
-          <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
+          <div className="bg-black/60 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10">
             <p className="text-lg md:text-xl text-white mb-6 leading-relaxed font-medium">
             🌟 Mais de 70.000 pessoas já passaram por esse processo e descobriram o motivo real que travava suas relações.
             </p>
